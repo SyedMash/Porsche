@@ -63,10 +63,10 @@ const SectionTwo = () => {
             </div>
           </div>
           <Image
-            src={"/greenPorsche.AVIF"}
+            src={"/black.png"}
             alt=""
-            width={700}
-            height={700}
+            width={800}
+            height={800}
             className="sub-heading object-cover"
           />
         </div>
